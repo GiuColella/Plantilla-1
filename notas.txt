@@ -1,0 +1,13 @@
+Inicio Landing Page.
+    -Elementos a considerar:
+        +El contenido principal debe ser el foco de la pagina
+        +Menu simple y contenido textual o descriptivo consiso
+        +Opcion de regristro para acceder al sector de compras y modificaciones 
+         de la plantillas creadas
+        +Facil acceso
+    
+    -Propuestas
+        +Menu de compras integrado con 2 tipos de moneda (local y extrangera)
+        +Pre visualizacion de las plantillas
+        +Menu con elementos modificables
+        +
